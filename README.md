@@ -2,7 +2,6 @@
 * https://github.com/trending/
 * https://github.com/521xueweihan/HelloGitHub
 * https://github.com/ruanyf/weekly
-* https://www.zhihu.com/column/mm-fe
 
 ## 特殊的查找资源小技巧-常用前缀后缀 
 * 找百科大全 awesome xxx
